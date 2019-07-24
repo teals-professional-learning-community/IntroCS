@@ -1,23 +1,31 @@
 <!--- REVISED -->
 # Lab 1.1 - Welcome To SNAP!
 
-SNAP is a programming language, which you can use to tell a computer what to do. A program is a particular set of instructions for the computer to follow.
+SNAP is a programming language that you can use to tell a computer what to do. A program is a set of instructions for the computer to follow.
 
-Programs in most languages use only letters (and punctuation), but SNAP is different: it's a visual language. Instead of writing a program only using the keyboard, you will drag pictures of blocks and click them together.
+Programs in most programming languages use only letters and punctuation, but SNAP is different because it's a visual language. Instead of writing a program only using the keyboard, you will drag pictures of blocks and click them together.
 
 > The following is a program in SNAP!: 
 > 
 > ![](simpleProgram.png)
 > 
-> **Can you guess what it might do? (Write your guess below)**
+> **Can you guess what it might do?**
 > 
 > ## <br />
 
-SNAP is different than many other languages in another way— you run it in a web browser like Firefox or Chrome. The url that you can use to always get to SNAP! is
+SNAP is different than many other languages in another way — you run it in a web browser like Firefox or Chrome instead of running it locally on your computer. You saw in the Do Not that you can use this URL to visit the Snap home page:
+
+**<http://snap.berkeley.edu/>**
+
+However, you can use also this URL to skip the home page and start programming in Snap right away: 
 
 **<http://snap.berkeley.edu/run>**
 
-In order to save your programs, the first thing you'll need to do is make an account. In the SNAP browser window, Find the cloud-shaped button in the top toolbar on the upper left corner of the window:
+Click on the link above and then take a minute to decide how to arrange the open windows on your computer screen. Make sure you have an easy way to see the instructions for this lab and as much of the Snap window as possible.
+ 
+Now it is time to start programming with Snap!
+
+The first thing you need to do before you start programming is make a Snap account. This will allow you to save and share your programs. Find the cloud-shaped button in the upper left corner of the toolbar at the top of the Snap window:
 
 ![](cloudButton.png)
 
