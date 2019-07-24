@@ -13,7 +13,7 @@ Programs in most programming languages use only letters and punctuation, but SNA
 > 
 > ## <br />
 
-SNAP is different than many other languages in another way — you run it in a web browser like Firefox or Chrome instead of running it locally on your computer. You saw in the Do Not that you can use this URL to visit the Snap home page:
+SNAP is different than many other languages in another way — you run it in a web browser like Firefox or Chrome instead of running it locally on your computer. You saw in the Do Now that you can use this URL to visit the Snap home page:
 
 **<http://snap.berkeley.edu/>**
 
@@ -22,14 +22,12 @@ However, you can use also this URL to skip the home page and start programming i
 **<http://snap.berkeley.edu/run>**
 
 Click on the link above and then take a minute to decide how to arrange the open windows on your computer screen. Make sure you have an easy way to see the instructions for this lab and as much of the Snap window as possible.
- 
-Now it is time to start programming with Snap!
 
-The first thing you need to do before you start programming is make a Snap account. This will allow you to save and share your programs. Find the cloud-shaped button in the upper left corner of the toolbar at the top of the Snap window:
+You will need a Snap account to save and share the programs you create. To create a new Snap account, find the cloud-shaped button in the upper left corner of the Snap window:
 
 ![](cloudButton.png)
 
-Click it, select the "sign up" option in the menu, and follow the instructions there. You will need to check your email after creating your account to get your initial password.
+Click the cloud-shaped button, select the "sign up" option in the menu, and follow the instructions. Then, go to your email to verify your account. 
 
 ![](cloudSignup.png)
 
@@ -45,7 +43,7 @@ The area at the left edge of the window is the palette. As you see in the pictur
 
 These tabs are an important organizational structure in SNAP because they are home to the various blocks that you will use to tell the computer what to do. The blocks are categorized under each tab based on what kind of thing each block does. 
 
-> **2.1) Below, fill in the name of the category to which each block belongs:**
+> **2.1) Find the category that contains each block below. Be prepared to discuss what you think the rest of the blocks in that category do.**
 > 
 > | Block                     | Category |
 > | ------------------------- | -------- |
